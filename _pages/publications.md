@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+\* Equal contribution
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
