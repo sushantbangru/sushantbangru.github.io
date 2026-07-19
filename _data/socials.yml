@@ -10,4 +10,7 @@ twitter_username: sushantbangru
 github_username: sushantbangru
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-
+custom_social:
+  logo: https://cdn.simpleicons.org/pubmed
+  title: PubMed bibliography
+  url: https://www.ncbi.nlm.nih.gov/myncbi/1zW5hxco3M8ki/bibliography/public/
