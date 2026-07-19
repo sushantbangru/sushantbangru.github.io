@@ -37,6 +37,6 @@ latest_posts:
 
 I am a postdoctoral researcher working with Kenneth Poss and Stefano Di Talia at the Morgridge Institute for Research and Duke University, respectively.
 
-My research examines how vertebrate tissues achieve robust regeneration despite developmental abnormalities, restricted cell numbers, and other biological constraints. Using zebrafish models, live imaging, genetics, and single-cell multi-omics, I investigate how signaling dynamics, cellular plasticity, and gene-regulatory programs coordinate tissue repair.
+My research examines how vertebrate tissues achieve robust regeneration despite developmental abnormalities, cellular variability, and other biological constraints. Using zebrafish models, live imaging, genetics, and single-cell multi-omics, I investigate how signaling dynamics, cellular plasticity, and gene-regulatory programs coordinate tissue repair.
 
 My current work focuses on regenerative plasticity in adult skeletal tissues, signaling dynamics governing robust regeneration, and the activation of regeneration-associated enhancers during congenital tissue degeneration. My broader goal is to uncover principles through which tissues sense disruption and adapt their regenerative output to restore form and function.
