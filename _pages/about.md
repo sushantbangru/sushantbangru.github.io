@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Postdoctoral Researcher at the Morgridge Institute for Research and Duke University
 
